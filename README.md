@@ -6,5 +6,5 @@ swapy_API_to_localhost_MYSQL.py:
   
     - Creates two data frames (people and planets)
     - Connects to localhost MySQL database
-    - Save the dataframes in the tables
+    - Saves the dataframes in the tables
     - HTTP status and error handling
