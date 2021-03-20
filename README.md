@@ -1,4 +1,4 @@
-# API-and-Databases
+# APIs-and-Databases
 
 swapy_API_to_localhost_MYSQL.py:
 
